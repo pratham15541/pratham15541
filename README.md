@@ -11,13 +11,16 @@
 <div align="center">
 
 ```
- _______ _______ _______ _______ _   _ _______ _______       _______ _______
-|   _   |   _   |   _   |_     _| | | |   _   |   |   |     |   _   |   _   |
-|.  1   |.  l   |.  1   | |   | |.  |.|.  1   |.      |_____|.  |   |   1___|
-|.  ____|.  _   |.  _   | |   | |.  _  |.  _   |.  |   |     |.  |   |____   |
-|:  |   |:  |   |:  1   | |   | |:  |  |:  |   |:  |   |_____|:  1   |:  1   |
-|::.|   |::.|   |::.. . | |___| |::.|:.|::.|   |::.. . |     |::.. . |::.. . |
-`---'   `---'   `-------' `---' `--- --`---'   `-------'     `-------`-------'
+ ██████╗ ██████╗  █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ███╗
+ ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗████╗ ████║
+ ██████╔╝██████╔╝███████║   ██║   ███████║███████║██╔████╔██║
+ ██╔═══╝ ██╔══██╗██╔══██║   ██║   ██╔══██║██╔══██║██║╚██╔╝██║
+ ██║     ██║  ██║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚═╝ ██║
+ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+                  ╔═══════════════════════╗
+                  ║   S O F T W A R E    ║
+                  ║   E N G I N E E R    ║
+                  ╚═══════════════════════╝
 ```
 
 ```
@@ -300,7 +303,7 @@ C:\Pratham> git log --graph --oneline --all
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pratham15541&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF4133&border_color=00FF41&hide_border=false&custom_title=%3E%3E%20COMMIT%20ACTIVITY%20GRAPH%20%3C%3C)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratham15541&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&title_color=00FF41&custom_title=COMMIT+ACTIVITY+GRAPH" width="100%" alt="Activity Graph" />
 
 </div>
 
