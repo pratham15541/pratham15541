@@ -1,27 +1,14 @@
 <!-- ███████████████████████████████████████████████████████████████████ -->
-<!-- ██  PRATHAM PARIKH | @pratham15541 | RETRO TERMINAL README v2  ██ -->
+<!-- ██  PRATHAM PARIKH | @pratham15541 | RETRO TERMINAL README v3  ██ -->
 <!-- ███████████████████████████████████████████████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B00,100:00FF41&height=120&section=header&text=&fontSize=0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:003B00,100:00FF41&height=150&section=header&text=PRATHAM-OS&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20v2.0.26&descSize=16&descAlignY=55&descColor=00FF41" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 <!--                  BIOS POST — BOOT SEQUENCE               -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-
-```
- ██████╗ ██████╗  █████╗ ████████╗██╗  ██╗ █████╗ ███╗   ███╗
- ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔══██╗████╗ ████║
- ██████╔╝██████╔╝███████║   ██║   ███████║███████║██╔████╔██║
- ██╔═══╝ ██╔══██╗██╔══██║   ██║   ██╔══██║██╔══██║██║╚██╔╝██║
- ██║     ██║  ██║██║  ██║   ██║   ██║  ██║██║  ██║██║ ╚═╝ ██║
- ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-                  ╔═══════════════════════╗
-                  ║   S O F T W A R E    ║
-                  ║   E N G I N E E R    ║
-                  ╚═══════════════════════╝
-```
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -56,11 +43,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2500&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=130&lines=C%3A%5CPratham%3E+whoami;%3E+Software+Engineer;%22Writing+code+is+creativity%2C+debugging+is+mastery.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=%24+whoami;%3E+Software+Engineer;%3E+%22Writing+code+is+creativity%2C+debugging+is+mastery.%22)](https://git.io/typing-svg)
 
 </div>
 
-<!-- ░░░░░░░░░░░░░░░ VISITOR COUNTERS ░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░ DYNAMIC BADGES ░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
@@ -69,22 +56,26 @@
 [![GitHub followers](https://img.shields.io/github/followers/pratham15541?label=FOLLOWERS&style=flat&color=00FF41&labelColor=0D1117&logo=github)](https://github.com/pratham15541)
 &nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/pratham15541?label=STARS&style=flat&color=00FF41&labelColor=0D1117&logo=github)](https://github.com/pratham15541)
+&nbsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/pratham15541/pratham15541?label=LAST+COMMIT&style=flat&color=00FF41&labelColor=0D1117&logo=github)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=pratham15541&color=00FF41&style=flat&label=PROFILE+VIEWS)
 
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- ░░░░░░░░░░░░░░░░ SYSTEM INFORMATION ░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-```dos
-C:\Pratham> systeminfo /all
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&width=400&height=30&lines=%24+systeminfo+%2Fall)](https://git.io/typing-svg)
 
 </div>
+
+<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -110,14 +101,33 @@ C:\Pratham> systeminfo /all
 ╚═══════════════════╩══════════════════════════════════════════════╝
 ```
 
+</div>
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- ░░░░░░░░░░░░░░░░░░░ ABOUT ME ░░░░░░░░░░░░░░░░░░░░░ -->
 
 <details open>
-<summary><b><code>C:\Pratham> cat about_me.txt</code></b></summary>
+<summary><b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00FF41&background=0D111700&vCenter=true&width=350&height=25&lines=%24+cat+about_me.txt" />
+</b></summary>
+<br>
+
+<div align="center">
+
+|                |                                                             |
+| -------------- | ----------------------------------------------------------- |
+| **Who am I**   | Software Engineer building the future, one commit at a time |
+| **Languages**  | JavaScript, TypeScript, Python, Rust, Go, C++               |
+| **Specialty**  | Full-Stack Development · DevOps · Cloud Architecture        |
+| **Philosophy** | _"Writing code is creativity, debugging is mastery."_       |
+| **Interests**  | Systems Programming · Distributed Systems · Open Source     |
+| **Fun Fact**   | I debug with `console.log` and I'm not ashamed              |
+
+</div>
+
 <br>
 
 ```
@@ -141,26 +151,51 @@ C:\Pratham> systeminfo /all
 </details>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ░░░░░░░░░░░░░ CURRENTLY WORKING ON ░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&width=400&height=30&lines=%24+ps+aux+%7C+grep+current_tasks)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════╗
+║              ◄ ACTIVE PROCESSES ►                     ║
+╠═══════════════════════════════════════════════════════╣
+║                                                       ║
+║  PID   PROCESS              STATUS        CPU        ║
+║  ───   ─────────────────    ──────────    ────       ║
+║  001   Learning Rust         ● RUNNING     92%       ║
+║  002   Building Side Proj    ● RUNNING     87%       ║
+║  003   Open Source Contrib   ● RUNNING     75%       ║
+║  004   Competitive Prog      ○ SLEEPING    15%       ║
+║  005   Drinking Coffee       ● RUNNING     99%       ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- ░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-```dos
-C:\Pratham> dir /stack /all
-```
-
-```
-  LOADING INSTALLED PACKAGES...
-  ░▒▓████████████████████████████████████████▓▒░  COMPLETE
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&width=450&height=30&lines=%24+dpkg+--list+%7C+grep+installed_packages)](https://git.io/typing-svg)
 
 </div>
 
 <details open>
-<summary><b><code>〔 LANGUAGES 〕</code></b></summary>
+<summary><b><code>〔 LANGUAGES 〕</code></b> — <i>click to expand/collapse</i></summary>
 <br>
 <div align="center">
 
@@ -176,7 +211,7 @@ C:\Pratham> dir /stack /all
 </details>
 
 <details open>
-<summary><b><code>〔 FRONTEND 〕</code></b></summary>
+<summary><b><code>〔 FRONTEND 〕</code></b> — <i>click to expand/collapse</i></summary>
 <br>
 <div align="center">
 
@@ -188,7 +223,7 @@ C:\Pratham> dir /stack /all
 </details>
 
 <details open>
-<summary><b><code>〔 DEVOPS & CLOUD 〕</code></b></summary>
+<summary><b><code>〔 DEVOPS & CLOUD 〕</code></b> — <i>click to expand/collapse</i></summary>
 <br>
 <div align="center">
 
@@ -205,7 +240,7 @@ C:\Pratham> dir /stack /all
 </details>
 
 <details open>
-<summary><b><code>〔 DATABASES 〕</code></b></summary>
+<summary><b><code>〔 DATABASES 〕</code></b> — <i>click to expand/collapse</i></summary>
 <br>
 <div align="center">
 
@@ -217,7 +252,7 @@ C:\Pratham> dir /stack /all
 </details>
 
 <details open>
-<summary><b><code>〔 COMPETITIVE PROGRAMMING 〕</code></b></summary>
+<summary><b><code>〔 COMPETITIVE PROGRAMMING 〕</code></b> — <i>click to expand/collapse</i></summary>
 <br>
 <div align="center">
 
@@ -229,21 +264,14 @@ C:\Pratham> dir /stack /all
 </details>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- ░░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-```dos
-C:\Pratham> git log --stat --all
-```
-
-```
-  QUERYING GITHUB API...
-  ░▒▓████████████████████████████████████████▓▒░  COMPLETE
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&width=400&height=30&lines=%24+git+log+--stat+--all)](https://git.io/typing-svg)
 
 </div>
 
@@ -263,21 +291,14 @@ C:\Pratham> git log --stat --all
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- ░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-```dos
-C:\Pratham> trophy --display --all
-```
-
-```
-  UNLOCKING ACHIEVEMENTS...
-  ░▒▓████████████████████████████████████████▓▒░  COMPLETE
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&width=400&height=30&lines=%24+trophy+--display+--all)](https://git.io/typing-svg)
 
 </div>
 
@@ -288,16 +309,14 @@ C:\Pratham> trophy --display --all
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- ░░░░░░░░░░░░░░░ ACTIVITY GRAPH ░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-```dos
-C:\Pratham> git log --graph --oneline --all
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&width=450&height=30&lines=%24+git+log+--graph+--oneline+--all)](https://git.io/typing-svg)
 
 </div>
 
@@ -308,13 +327,15 @@ C:\Pratham> git log --graph --oneline --all
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- ░░░░░░░░░░░░░░░ 3D CONTRIBUTION GLOBE ░░░░░░░░░░░░░░░ -->
 
 <details open>
-<summary><b><code>C:\Pratham> render --3d --contributions</code></b></summary>
+<summary><b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00FF41&background=0D111700&vCenter=true&width=400&height=25&lines=%24+render+--3d+--contributions" />
+</b> — <i>click to expand/collapse</i></summary>
 <br>
 
 <div align="center">
@@ -328,16 +349,14 @@ C:\Pratham> git log --graph --oneline --all
 </details>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- ░░░░░░░░░░░░░░░ SNAKE ANIMATION ░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-```dos
-C:\Pratham> snake.exe --eat-contributions --dark-mode
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&width=500&height=30&lines=%24+snake.exe+--eat-contributions+--dark-mode)](https://git.io/typing-svg)
 
 </div>
 
@@ -352,20 +371,20 @@ C:\Pratham> snake.exe --eat-contributions --dark-mode
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- ░░░░░░░░░░░░░░░ SOCIAL LINKS ░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-```dos
-C:\Pratham> netstat -social --connect
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&width=400&height=30&lines=%24+netstat+-social+--connect)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
 
 ```
-  ESTABLISHING CONNECTIONS...
-
   ╔═══════════════════════════════════════════╗
   ║    PORT    SERVICE         STATUS         ║
   ╠═══════════════════════════════════════════╣
@@ -390,16 +409,14 @@ C:\Pratham> netstat -social --connect
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- ░░░░░░░░░░░░░░░ DEV QUOTE ░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-```dos
-C:\Pratham> fortune | cowsay
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&width=350&height=30&lines=%24+fortune+%7C+cowsay)](https://git.io/typing-svg)
 
 ```
   _______________________________________________
@@ -424,7 +441,7 @@ C:\Pratham> fortune | cowsay
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- ░░░░░░░░░░░░░░░ EASTER EGG ░░░░░░░░░░░░░░░░░░░░ -->
@@ -461,12 +478,38 @@ C:\Pratham> fortune | cowsay
 </details>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░░ METRICS ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<details>
+<summary><b><code>$ cat /proc/github_metrics</code></b> — <i>click for deep metrics</i></summary>
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratham15541&theme=github_dark" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratham15541&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pratham15541&theme=github_dark" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratham15541&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratham15541&theme=github_dark&utcOffset=5.5" width="49%" />
+
+</div>
+
+</details>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- ░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00FF41&background=0D1117&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%3E+Session+terminated.+Memory+freed.+Until+next+commit...;%3E+Thanks+for+visiting+PRATHAM-OS!+Star+the+repo+%E2%AD%90;%3E+Let's+build+something+amazing+together!)](https://git.io/typing-svg)
 
 ```dos
 C:\Pratham> shutdown /s /t 0 /message "Thanks for visiting!"
@@ -491,6 +534,16 @@ C:\Pratham> shutdown /s /t 0 /message "Thanks for visiting!"
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:0D1117&height=100&section=footer" width="100%" />
+
+</div>
+
+<div align="center">
+
+**If you liked this profile, consider giving it a ⭐!**
+
+  <a href="https://github.com/pratham15541">
+    <img src="https://img.shields.io/badge/PRATHAM--OS-ONLINE-00FF41?style=for-the-badge&labelColor=0D1117" />
+  </a>
 
 </div>
 
