@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am Web Developer
+I am Software engineer
+> Writing code is creativity, debugging is mastery.
 
 
 ## 🌐 Socials:
