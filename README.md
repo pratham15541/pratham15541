@@ -41,11 +41,11 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░ TYPING BANNER ░░░░░░░░░░░░░░░░░░░ -->
 
-<div align="center">
+<!-- <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=%24+whoami;%3E+Software+Engineer;%3E+%22Writing+code+is+creativity%2C+debugging+is+mastery.%22)](https://git.io/typing-svg)
 
-</div>
+</div> -->
 
 <!-- ░░░░░░░░░░░░░░░ DYNAMIC BADGES ░░░░░░░░░░░░░░░░░ -->
 
@@ -93,11 +93,11 @@
 ║  PHILOSOPHY       ║  "Writing code is creativity,                ║
 ║                   ║   debugging is mastery."                     ║
 ╠═══════════════════╬══════════════════════════════════════════════╣
-║  STR  ████████████████████░░░░  85%  [Backend & Systems]        ║
-║  DEX  ██████████████████░░░░░░  78%  [Frontend & UI/UX]         ║
-║  INT  █████████████████████░░░  90%  [Problem Solving]          ║
-║  WIS  ███████████████████░░░░░  82%  [Architecture]             ║
-║  CHA  █████████████████░░░░░░░  75%  [Open Source]              ║
+║  STR  ████████████████████░░░░  85%  [Backend & Systems]         ║
+║  DEX  ██████████████████░░░░░░  78%  [Frontend & UI/UX]          ║
+║  INT  █████████████████████░░░  90%  [Problem Solving]           ║
+║  WIS  ███████████████████░░░░░  82%  [Architecture]              ║
+║  CHA  █████████████████░░░░░░░  75%  [Open Source]               ║
 ╚═══════════════════╩══════════════════════════════════════════════╝
 ```
 
@@ -133,17 +133,12 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
 │                                                                      │
-│   > Full-Stack Developer who speaks JS, Python & Cpp fluently       │
+│   > Full-Stack Developer who speaks JS, Python & Cpp fluently        │
 │   > DevOps engineer who treats infrastructure as code                │
 │   > Open-Source contributor — I fix bugs no one else dares to        │
-│   > Competitive programmer: Codeforces · LeetCode · AtCoder         │
+│   > Competitive programmer: Codeforces · LeetCode · AtCoder          │
 │   > Cloud-native builder on AWS / GCP / Azure                        │
 │   > Currently exploring: systems programming & distributed systems   │
-│                                                                      │
-│   ┌────────────────────────────────────────────────────────────┐     │
-│   │  "Writing code is creativity, debugging is mastery."       │     │
-│   │                                    — Pratham Parikh        │     │
-│   └────────────────────────────────────────────────────────────┘     │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
@@ -169,13 +164,13 @@
 ║              ◄ ACTIVE PROCESSES ►                     ║
 ╠═══════════════════════════════════════════════════════╣
 ║                                                       ║
-║  PID   PROCESS              STATUS        CPU        ║
-║  ───   ─────────────────    ──────────    ────       ║
-║  001   Learning Go         ● RUNNING     92%       ║
-║  002   Building Side Proj    ● RUNNING     87%       ║
-║  003   Open Source Contrib   ● RUNNING     75%       ║
-║  004   Competitive Prog      ○ SLEEPING    15%       ║
-║  005   Drinking Coffee       ● RUNNING     99%       ║
+║  PID   PROCESS              STATUS        CPU         ║
+║  ───   ─────────────────    ──────────    ────        ║
+║  001   Learning Go           ● RUNNING     92%        ║
+║  002   Building Side Proj    ● RUNNING     87%        ║
+║  003   Open Source Contrib   ● RUNNING     75%        ║
+║  004   Competitive Prog      ○ SLEEPING    15%        ║
+║  005   Drinking Coffee       ● RUNNING     99%        ║
 ║                                                       ║
 ╚═══════════════════════════════════════════════════════╝
 ```
@@ -423,7 +418,6 @@
  /                                               \
 |  "Writing code is creativity,                   |
 |   debugging is mastery."                        |
-|                          — Pratham Parikh        |
  \_______________________________________________/
         \   ^__^
          \  (oo)\_______
